@@ -1,3 +1,4 @@
 # BubbleShooterWebGL
 Compiled WebGL build for the project [BubbleShooter](https://github.com/VirtualMaestro/BubbleShooter)
-[Launch game]()
+
+[Play game](https://virtualmaestro.github.io/BubbleShooterWebGL/)
